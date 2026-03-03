@@ -1,0 +1,15 @@
+
+.image{
+    border-radius: 50%;
+    height: auto;
+    width:200px ;
+}
+
+.education{
+    position-try-order: calc ( 50%);
+
+}
+.phone{
+    position: sticky;
+    font-size: xx-large :
+}
